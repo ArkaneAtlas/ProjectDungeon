@@ -1,2 +1,2 @@
 # ProjectDungeon
-A Coop-Op Game Project
+A Coop Game Project
